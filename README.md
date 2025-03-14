@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="256" src="https://cdn.discordapp.com/attachments/894581744077000784/1314228210828968016/AritakeLAB_logo_trans.png?ex=67a567a6&is=67a41626&hm=7205dc4f3494c14a911f84b1376381befe143472e45eca0d570c95cc5c528756&"  />
+  <img height="256" src="https://lh5.googleusercontent.com/ruKyyXOb2fJdLk8j4JNAdJtlL13axCbDsC3ht591OmZL9bPIKKkLlm2j_0O3sBueQSjS78JaZtWVzkRQxuKUB1c=w1280"  />
 </div>
 
 ###
