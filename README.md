@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img height="256" src="https://pbs.twimg.com/media/GNwFSD-aYAAg2qS?format=jpg&name=large"  />
+  <img src="https://pbs.twimg.com/media/GNwFSD-aYAAg2qS?format=jpg&name=large"  />
 </div>
 
 ###
