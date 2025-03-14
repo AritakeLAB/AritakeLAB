@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img height="256" src="https://cdn.discordapp.com/attachments/1023856646629363763/1279662197944877097/Shima.gif?ex=67a58eca&is=67a43d4a&hm=fd3ba06967d3371ca6d37946e2cd1ac97bfd7447b5855890b642ec8dadca5f3d&"  />
+  <img height="256" src="https://pbs.twimg.com/media/GNwFSD-aYAAg2qS?format=jpg&name=large"  />
 </div>
 
 ###
